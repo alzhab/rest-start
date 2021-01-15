@@ -209,6 +209,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowTODO.ShowToolbar" value="false" />
     <property name="js.linters.configure.manually.selectedtslint" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/api/resources" />
@@ -222,19 +223,19 @@
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/interfaces" />
-      <recent name="$PROJECT_DIR$/services" />
-      <recent name="$PROJECT_DIR$/api/resources" />
-      <recent name="$PROJECT_DIR$/models" />
-      <recent name="$PROJECT_DIR$/src/interfaces" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/interfaces" />
       <recent name="$PROJECT_DIR$/abstract" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/src/storage/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/api/resources" />
+      <recent name="$PROJECT_DIR$/interfaces" />
+      <recent name="$PROJECT_DIR$/services" />
+      <recent name="$PROJECT_DIR$/models" />
+      <recent name="$PROJECT_DIR$/src/interfaces" />
     </key>
   </component>
   <component name="RunDashboard">
