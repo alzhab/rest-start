@@ -1,0 +1,27 @@
+{
+  "dev": {
+    "name": "Project Name - Dev Mode",
+    "port": 4100,
+    "mode": "development",
+    "protocol": "http",
+    "serverUrl": "localhost",
+    "serverUrlWebUrlLink": "localhost:4200/",
+    "database": {
+      "multipleStatements": true,
+      "host": "localhost",
+      "user": "postgres",
+      "password": "postgres",
+      "database": "database_name",
+      "port": 5432
+    },
+    "email": {
+      "host": "smtp.gmail.com",
+      "port": 465,
+      "auth": {
+        "user": "",
+        "pass": ""
+      },
+      "secure": true
+    }
+  }
+}
